@@ -1,0 +1,27 @@
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe.config
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.pdb
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csprojAssemblyReference.cache
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Form1.resources
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Properties.Resources.resources
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csproj.GenerateResource.cache
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.exe
+C:\Users\Misi\source\repos\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.pdb
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe.config
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.pdb
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csprojAssemblyReference.cache
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Form1.resources
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Properties.Resources.resources
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csproj.GenerateResource.cache
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.exe
+E:\Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.pdb
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe.config
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.exe
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\bin\Debug\GrafikaBeadandoHarmasert.pdb
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csprojAssemblyReference.cache
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Form1.resources
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.Properties.Resources.resources
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.csproj.GenerateResource.cache
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.exe
+C:\Users\Misi\Google Drive\Pti 2017\5. félév\Grafika\GrafikaBeadandoHarmasert\GrafikaBeadandoHarmasert\obj\Debug\GrafikaBeadandoHarmasert.pdb
